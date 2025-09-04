@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Tee",
+    "price": 25,
+    "image": "https://images.unsplash.com/photo-1520975682217-6a6c4f2af615?w=800"
+  },
+  {
+    "id": 2,
+    "name": "Everyday Hoodie",
+    "price": 45,
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=800"
+  },
+  {
+    "id": 3,
+    "name": "Denim Jacket",
+    "price": 60,
+    "image": "https://images.unsplash.com/photo-1618354691489-2a9e4eb06b3b?w=800"
+  },
+  {
+    "id": 4,
+    "name": "Casual Shoes",
+    "price": 70,
+    "image": "https://images.unsplash.com/photo-1593032457861-ec2951c21456?w=800"
+  }
+]
