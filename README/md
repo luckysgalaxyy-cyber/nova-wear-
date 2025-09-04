@@ -1,0 +1,18 @@
+# NovaWear — Full-Stack Clothing Brand
+
+A responsive clothing brand website with backend + frontend:
+- Responsive UI with grid/flexbox, fade-in animations
+- Sticky navbar, dropdown, hover zoom, theme toggle
+- Backend API (Node.js + Express) serving product data
+- Images auto-loaded from Unsplash CDN
+
+## 🚀 Deployment on Vercel
+
+### 1. Push to GitHub
+```bash
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/<your-username>/nova-wear.git
+git push -u origin main
